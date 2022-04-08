@@ -1,0 +1,42 @@
+.page-title {
+    color: rgb(19, 214, 19);
+}
+
+.page-title>h1 {
+    margin-bottom: 0%;
+}
+
+.page-title>h3 {
+    margin-top: 0%;
+}
+
+.button {
+    background-color: rgb(19, 214, 19);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.text-red {
+    color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.headset {
+    color: rgb(39, 122, 247);
+}
+
+.name {
+    color: rgb(39, 122, 247);
+}
